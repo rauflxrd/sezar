@@ -1,0 +1,15 @@
+C:\Users\mehre\source\repos\sezar\sezar\bin\Debug\net6.0\sezar.exe
+C:\Users\mehre\source\repos\sezar\sezar\bin\Debug\net6.0\sezar.deps.json
+C:\Users\mehre\source\repos\sezar\sezar\bin\Debug\net6.0\sezar.runtimeconfig.json
+C:\Users\mehre\source\repos\sezar\sezar\bin\Debug\net6.0\sezar.dll
+C:\Users\mehre\source\repos\sezar\sezar\bin\Debug\net6.0\sezar.pdb
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\sezar.csproj.AssemblyReference.cache
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\sezar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\sezar.AssemblyInfoInputs.cache
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\sezar.AssemblyInfo.cs
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\sezar.csproj.CoreCompileInputs.cache
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\sezar.dll
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\refint\sezar.dll
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\sezar.pdb
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\sezar.genruntimeconfig.cache
+C:\Users\mehre\source\repos\sezar\sezar\obj\Debug\net6.0\ref\sezar.dll
